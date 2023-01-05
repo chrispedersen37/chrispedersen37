@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐝I'm a developer, studying software engineering at Baldwin Wallace University.<br>🌍I am currently working on a patient record software, partnering with Mission Guatemala.<br>📱I am passionate about application development, both mobile and web.<br>🤝I am always open to collaborating with other growing software developers.
+🐝I'm a developer, studying software engineering at Baldwin Wallace University.<br>🌍I am currently working on a patient record software, partnering with Mission Guatemala.<br>📱I am passionate about application development, on mobile, web, and some other personal projects.<br>🤝I am always open to collaborating with other growing software developers.
 
 
 ## 🌐 Socials:
