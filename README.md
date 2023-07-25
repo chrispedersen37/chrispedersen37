@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐝I'm a developer, studying software engineering at Baldwin Wallace University.<br>🌍I am currently working on a patient record software, partnering with Mission Guatemala. I also help develop a mobile app we use on campus called Campus Plate.<br>📱I am passionate about application development, on mobile, web, and some other personal projects.<br>🤝I am always open to collaborating with other growing software developers.
+🏠I'm a software developer for Union Home Mortgage.<br>🐝I recently graduated from Baldwin Wallace with a B.S. in Software Engineering. There I worked on a patient record software, partnering with Mission Guatemala. I also help develop a mobile app we use on campus called Campus Plate.<br>📱I am passionate about application development, on mobile, web, and some other personal projects.<br>🤝I am always open to collaborating with other growing software developers.
 
 
 ## 🌐 Socials:
